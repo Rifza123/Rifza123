@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Rifza123.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://Rifza123.com">Rifza/Azfir</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Rifza">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
