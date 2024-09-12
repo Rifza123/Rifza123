@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Rifza me">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Rifza123">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
@@ -58,7 +58,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: apirfz@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: termai.api@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Rifza123/Rifza123/issues)
 
 </p>
